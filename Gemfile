@@ -29,7 +29,6 @@ gem 'devise'
 gem 'font-awesome-rails'
 gem 'audited-activerecord'
 
-
 group :development do
   gem 'ruby-debug-base19x', '~> 0.11.30.pre4'
   gem 'ruby-debug19'
@@ -46,3 +45,4 @@ end
 
 # To use debugger
 # gem 'debugger'
+gem 'translation_center'
